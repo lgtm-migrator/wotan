@@ -47,7 +47,7 @@
     "diff": "^5.0.0",
     "escape-string-regexp": "^4.0.0",
     "github-url-to-object": "^4.0.4",
-    "glob": "^7.1.2",
+    "glob": "^8.0.0",
     "issue-parser": "^6.0.0",
     "mkdirp": "^1.0.0",
     "npm-packlist": "^2.0.0",
